@@ -1,6 +1,6 @@
 - Hi, I’m @TriplePointCat
-- I’m interested in computational materials science and corrosion engineering
-- I’m currently learning corrosion engineering, Python, and C++
+- I’m interested in materials science and corrosion engineering
+- I’m currently learning MSE, Python, and C++
 - How to reach me pimstack at gmail (dot) com
 
 <!---
