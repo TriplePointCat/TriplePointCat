@@ -1,7 +1,7 @@
 - Hi, I’m @TriplePointCat
 - I’m interested in materials science and corrosion engineering
 - I’m currently learning MSE, Python, and C++
-- How to reach me pimstack at gmail (dot) com
+- How to reach me Imoen (dot) Hawthorne at gmail (dot) com
 
 <!---
 TriplePointCat/TriplePointCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
